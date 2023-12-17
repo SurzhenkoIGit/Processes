@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\bin\Debug\SearchWord.exe.config
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\bin\Debug\SearchWord.exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\bin\Debug\SearchWord.pdb
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\obj\Debug\SearchWord.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\obj\Debug\SearchWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\obj\Debug\SearchWord.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\obj\Debug\SearchWord.exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\SearchWord\obj\Debug\SearchWord.pdb

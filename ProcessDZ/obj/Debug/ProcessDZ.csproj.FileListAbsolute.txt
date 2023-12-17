@@ -1,0 +1,14 @@
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.exe.config
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.exe
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.pdb
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.exe
+C:\Users\adm\source\repos\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.pdb
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.exe.config
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.exe
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.pdb
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.csproj.AssemblyReference.cache
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.csproj.CoreCompileInputs.cache
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.exe
+C:\Users\мк\Downloads\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.pdb

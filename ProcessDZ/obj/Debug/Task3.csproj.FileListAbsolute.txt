@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.exe.config
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\bin\Debug\ProcessDZ.pdb
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\obj\Debug\Task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.exe
+C:\Users\user\Desktop\учеба\Стационар\Сетевое программирование\Дз 2\ProcessDZ\ProcessDZ\obj\Debug\ProcessDZ.pdb

@@ -1,0 +1,6 @@
+C:\Users\мк\Downloads\ProcessDZ\MathOperations\bin\Debug\MathOperations.exe.config
+C:\Users\мк\Downloads\ProcessDZ\MathOperations\bin\Debug\MathOperations.exe
+C:\Users\мк\Downloads\ProcessDZ\MathOperations\bin\Debug\MathOperations.pdb
+C:\Users\мк\Downloads\ProcessDZ\MathOperations\obj\Debug\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\мк\Downloads\ProcessDZ\MathOperations\obj\Debug\MathOperations.exe
+C:\Users\мк\Downloads\ProcessDZ\MathOperations\obj\Debug\MathOperations.pdb

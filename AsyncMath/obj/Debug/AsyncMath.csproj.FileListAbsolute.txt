@@ -1,0 +1,10 @@
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\bin\Debug\AsyncMath.exe.config
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\bin\Debug\AsyncMath.exe
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\bin\Debug\AsyncMath.pdb
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.csproj.AssemblyReference.cache
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.Form1.resources
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.Properties.Resources.resources
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.csproj.GenerateResource.cache
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.csproj.CoreCompileInputs.cache
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.exe
+C:\Users\мк\Downloads\ProcessDZ\AsyncMath\obj\Debug\AsyncMath.pdb
